@@ -1,0 +1,4 @@
+parent re0
+vnetid 20
+descr inside
+inet 10.40.1.1/24
